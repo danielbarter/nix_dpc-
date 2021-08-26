@@ -1,0 +1,8 @@
+crt1.o
+crtbegin.o
+crtend.o
+crti.o
+crtn.o
+hello
+ld-linux-x86-64.so.2
+llvm
